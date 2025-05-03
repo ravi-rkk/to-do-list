@@ -1,0 +1,5 @@
+.todo-wrapper {
+    background-color:#f1c83a;
+    min-height: 100vh; /* ensures full-page height */
+    padding: 2rem;
+  }
